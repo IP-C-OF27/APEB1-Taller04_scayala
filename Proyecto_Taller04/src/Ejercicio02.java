@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 /**
  * Ejercicio 02: "Generar un algoritmo que permite ingresar los gastos de tres 
  * hijos de un padre de familia; calcular y mostrar el total de gastos de los 
@@ -10,6 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio02 {
     public static void main(String[] args) {
+        //AQUI AGREGUE TODO SU CODIDO
         Scanner tcl = new Scanner(System.in);
         double gastoHijo1, gastoHijo2, gastoHijo3, gastoTotal;
         System.out.print("Deme gastos: ");

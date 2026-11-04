@@ -8,6 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio05 {
     public static void main(String[] args) {
+        //AQUI AGREGUE TODO SU CODIDO
         Scanner tcl = new Scanner(System.in);
         double costcompu, costcpu, costeclado, costpantalla, costraton;
         System.out.print("Ingresar el costo del CPU: ");

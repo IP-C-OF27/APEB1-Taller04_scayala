@@ -8,6 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio06 {
     public static void main(String[] args) {
+        //AQUI AGREGUE TODO SU CODIDO
         Scanner tcl = new Scanner(System.in);
         double pagomes, interesmes, monto;
         System.out.println("Ingresar el monto del prestamo: ");

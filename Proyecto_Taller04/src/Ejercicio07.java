@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class Ejercicio07 {
     public static void main(String[] args) {
+        //AQUI AGREGUE TODO SU CODIDO
         Scanner tcl = new Scanner(System.in);
         double costok_h, consumomes, edadusuario, totalmes;
         System.out.println("Ingresar edad de usuario: ");

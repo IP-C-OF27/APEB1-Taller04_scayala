@@ -36,10 +36,10 @@ public class Ejercicio10 {
 }
 /*** EVIDENCIA DEL RUN
 run:
-Ingresar el monto del prestamo: 
-1200
-Ingresar el interes mensual del prestamo: 
-5
-El pago mensual es: 160.0
-BUILD SUCCESSFUL (total time: 23 seconds)
+Ingrese la base del cuadrado: 
+4
+Ingrese la altura de un triangulo: 
+4
+El area total del poligono es: 56.0
+BUILD SUCCESSFUL (total time: 4 seconds)
  */
